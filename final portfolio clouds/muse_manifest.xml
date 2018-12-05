@@ -1,0 +1,64 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madisonmurphyfinalportfolio.com" resolutions="1x" timestamp="1544017846362">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="georgie-still.css" crc="3798121122" ref="georgie-still"/>
+    <file name="georgie-location.css" crc="448547323" ref="georgie-location"/>
+    <file name="index.css" crc="396935141" ref="index"/>
+    <file name="mbks-still-4.css" crc="242167289" ref="mbks-still-4"/>
+    <file name="mkbs-still-3.css" crc="4006643128" ref="mkbs-still-3"/>
+    <file name="mbks-still-2.css" crc="289201571" ref="mbks-still-2"/>
+    <file name="georgie-test-shoot.css" crc="4244584638" ref="georgie-test-shoot"/>
+    <file name="mbks-graphic.css" crc="3770785830" ref="mbks-graphic"/>
+    <file name="mbks-still.css" crc="4028592149" ref="mbks-still"/>
+    <file name="georgie-lookbook.css" crc="264839309" ref="georgie-lookbook"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mbks-still:mbks-still-2:mbks-graphic:mkbs-still-3:mbks-still-4:georgie-test-shoot:georgie-still:georgie-location:georgie-lookbook"/>
+    <file name="museutils.js" crc="340535759" ref="index:mbks-still:mbks-still-2:mbks-graphic:mkbs-still-3:mbks-still-4:georgie-test-shoot:georgie-still:georgie-location:georgie-lookbook"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mbks-still:mbks-still-2:mbks-graphic:mkbs-still-3:mbks-still-4:georgie-test-shoot:georgie-still:georgie-location:georgie-lookbook"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:mbks-still:mbks-still-2:mbks-graphic:mkbs-still-3:mbks-still-4:georgie-test-shoot:georgie-still:georgie-location:georgie-lookbook"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:mbks-still:mbks-still-2:mbks-graphic:mkbs-still-3:mbks-still-4:georgie-test-shoot:georgie-still:georgie-location:georgie-lookbook"/>
+    <file name="require.js" crc="7928878" ref="index:mbks-still:mbks-still-2:mbks-graphic:mkbs-still-3:mbks-still-4:georgie-test-shoot:georgie-still:georgie-location:georgie-lookbook"/>
+  </folder>
+  <folder name="images">
+    <file name="u166-4.png" crc="38462078" ref="index"/>
+    <file name="pasted image 208x122.jpg" crc="111803840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3139.jpg" crc="4100446688" seo="true" ref="mbks-still">
+      <caption webpage="mbks-still" alt=""/>
+    </file>
+    <file name="img_3133.jpg" crc="497654925" seo="true" ref="mbks-still-2:mkbs-still-3">
+      <caption webpage="mbks-still-2" alt=""/>
+      <caption webpage="mkbs-still-3" alt=""/>
+    </file>
+    <file name="03fc6b2963106b864ac52e42c21d6814_original-1.jpg" crc="3904425530" seo="true" ref="mbks-graphic">
+      <caption webpage="mbks-graphic" alt=""/>
+    </file>
+    <file name="img_3168.jpg" crc="4119944150" seo="true" ref="mbks-still-4">
+      <caption webpage="mbks-still-4" alt=""/>
+    </file>
+    <file name="screen shot 2018-11-19 at 24634 pm.jpg" crc="517162541" seo="true" ref="georgie-test-shoot">
+      <caption webpage="georgie-test-shoot" alt=""/>
+    </file>
+    <file name="screen shot 2018-10-17 at 64751 pm.jpg" crc="3775896540" seo="true" ref="georgie-still">
+      <caption webpage="georgie-still" alt=""/>
+    </file>
+    <file name="screen shot 2018-11-19 at 25123 pm.jpg" crc="4022519721" seo="true" ref="georgie-location">
+      <caption webpage="georgie-location" alt=""/>
+    </file>
+    <file name="screen shot 2018-11-19 at 25113 pm.jpg" crc="475725601" seo="true" ref="georgie-lookbook">
+      <caption webpage="georgie-lookbook" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4269595947" seo="true" mt="1543528412228" redirect="true"/>
+  <file name="mbks-still.html" crc="3781172034" seo="true" mt="1543452743796" redirect="true"/>
+  <file name="mbks-still-2.html" crc="4179031166" seo="true" mt="1543452755150" redirect="true"/>
+  <file name="mbks-graphic.html" crc="5750701" seo="true" mt="1543452750088" redirect="true"/>
+  <file name="mkbs-still-3.html" crc="40289861" seo="true" mt="1543452774276" redirect="true"/>
+  <file name="mbks-still-4.html" crc="4193401485" seo="true" mt="1543452783060" redirect="true"/>
+  <file name="georgie-test-shoot.html" crc="277984244" seo="true" mt="1544017331138" redirect="true"/>
+  <file name="georgie-still.html" crc="269725168" seo="true" mt="1543453079228" redirect="true"/>
+  <file name="georgie-location.html" crc="463332999" seo="true" mt="1544017067010" redirect="true"/>
+  <file name="georgie-lookbook.html" crc="116817654" seo="true" mt="1544017043103" redirect="true"/>
+</manifest>
